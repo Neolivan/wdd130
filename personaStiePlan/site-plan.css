@@ -176,6 +176,7 @@ nav a:hover {
   border-right: 1px solid;
 }
 .sample_image{
-  width:300px;
+  max-width:300px;
   margin-top: 15px;
+
 }
